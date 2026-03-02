@@ -13,22 +13,30 @@
 | 3 | [Canva Template Bundle](https://github.com/muyinzad/canva-template-bundle) | 200+ social media templates | $14-49 |
 | 4 | [Pinterest Viral Pack](https://github.com/muyinzad/pinterest-viral-pack) | 100+ pin templates + SEO guides | $14-24 |
 | 5 | [Digital Planner Bundle](https://github.com/muyinzad/digital-planner-bundle) | 20+ interactive PDF planners | $12-24 |
+| 6 | [Etsy Empire Builder](https://github.com/muyinzad/etsy-empire-builder) ⭐ | **Complete system for Etsy success** | $29-197 |
 
 ---
 
-## How to Use
+## 🏆 Flagship Product
 
-1. **Browse products** - Click any product above
-2. **Download** - Get the files from each repo
-3. **Format for Etsy** - Convert to PDF or create Canva links
-4. **List & Sell** - Upload to your Etsy shop
+### Etsy Empire Builder - $97
+The all-in-one system that can make $15,000/month!
+
+- ✅ Business Planner (50+ pages)
+- ✅ SEO Toolkit (30+ pages)
+- ✅ Product Research Templates
+- ✅ Financial Tracker
+- ✅ Email Templates
+- ✅ 12-Month Content Calendar
+
+[Get it now →](https://github.com/muyinzad/etsy-empire-builder)
 
 ---
 
 ## Quick Stats
 
-- **5 Products Ready**
-- **$12-49 Price Range**
+- **6 Products Ready**
+- **$12-197 Price Range**
 - **High-Demand Categories**
 
 ---
