@@ -23,28 +23,28 @@
 | 13 | [Midjourney Nano](https://github.com/muyinzad/midjourney-nano) 🍌 | 50 quick prompts | $14 |
 | 14 | [TikTok Creator Kit](https://github.com/muyinzad/tiktok-creator-kit) 🎵 | TikTok system | $29-197 |
 | 15 | [Ultimate Creator Bundle](https://github.com/muyinzad/ultimate-creator-bundle) 👑 | ALL platforms | $147-497 |
+| 16 | [Complete Marketing Bundle](https://github.com/muyinzad/complete-marketing-bundle) 📣 | ALL marketing | $147-497 |
 
 ---
 
 ## 🏆 Flagship Products
 
-- Etsy Empire Builder - $97
-- YouTube Creator Empire - $147
-- Notion Life OS - $147
-- Freelancer Empire - $147
-- Agency Bundle - $247
-- Professional Prompt Library - $79
-- Midjourney Master - $79
-- TikTok Creator Kit - $79
-- **Ultimate Creator Bundle - $297**
+| Product | Price |
+|---------|-------|
+| Complete Marketing Bundle | $297 |
+| Ultimate Creator Bundle | $297 |
+| Agency Bundle | $247 |
+| YouTube Creator Empire | $147 |
+| Notion Life OS | $147 |
+| Freelancer Empire | $147 |
 
 ---
 
 ## Quick Stats
 
-- **15 Products**
+- **16 Products**
 - **$12-497 Price Range**
-- **$150k+ Monthly Potential**
+- **$200k+ Monthly Potential**
 
 ---
 
