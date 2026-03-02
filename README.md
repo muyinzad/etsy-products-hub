@@ -19,6 +19,7 @@
 | 9 | [Freelancer Empire](https://github.com/muyinzad/freelancer-empire) 💼 | Complete freelance system | $47-297 |
 | 10 | [Agency Bundle](https://github.com/muyinzad/agency-bundle) 🏢 | Complete agency system | $97-497 |
 | 11 | [Professional Prompt Library](https://github.com/muyinzad/professional-prompt-library) 📚 | 1000+ AI prompts | $29-147 |
+| 12 | [Midjourney Master Library](https://github.com/muyinzad/midjourney-master-library) 🎨 | 500+ visual prompts | $29-147 |
 
 ---
 
@@ -30,14 +31,15 @@
 ### Freelancer Empire - $147
 ### Agency Bundle - $247
 ### Professional Prompt Library - $79
+### Midjourney Master Library - $79
 
 ---
 
 ## Quick Stats
 
-- **11 Products Ready**
+- **12 Products Ready**
 - **$12-497 Price Range**
-- **$75k+ Monthly Potential**
+- **$100k+ Monthly Potential**
 
 ---
 
