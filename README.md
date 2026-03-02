@@ -17,6 +17,7 @@
 | 7 | [YouTube Creator Empire](https://github.com/muyinzad/youtube-creator-empire) 🎬 | Complete YouTube system | $47-297 |
 | 8 | [Notion Life OS](https://github.com/muyinzad/notion-life-os) 🧠 | Complete Notion system | $47-297 |
 | 9 | [Freelancer Empire](https://github.com/muyinzad/freelancer-empire) 💼 | Complete freelance system | $47-297 |
+| 10 | [Agency Bundle](https://github.com/muyinzad/agency-bundle) 🏢 | Complete agency system | $97-497 |
 
 ---
 
@@ -32,15 +33,18 @@ Complete system for YouTube success.
 Complete system for life organization.
 
 ### Freelancer Empire - $147
-Complete system for freelance success.
+Complete system for freelancers.
+
+### Agency Bundle - $247
+Complete system for agencies.
 
 ---
 
 ## Quick Stats
 
-- **9 Products Ready**
-- **$12-297 Price Range**
-- **$25k+ Monthly Potential**
+- **10 Products Ready**
+- **$12-497 Price Range**
+- **$50k+ Monthly Potential**
 
 ---
 
