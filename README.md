@@ -21,15 +21,30 @@
 | 11 | [Professional Prompt Library](https://github.com/muyinzad/professional-prompt-library) 📚 | 1000+ AI prompts | $29-147 |
 | 12 | [Midjourney Master](https://github.com/muyinzad/midjourney-master-library) 🎨 | 500+ visual prompts | $29-147 |
 | 13 | [Midjourney Nano](https://github.com/muyinzad/midjourney-nano) 🍌 | 50 quick prompts | $14 |
-| 14 | [TikTok Creator Kit](https://github.com/muyinzad/tiktok-creator-kit) 🎵 | Complete TikTok system | $29-197 |
+| 14 | [TikTok Creator Kit](https://github.com/muyinzad/tiktok-creator-kit) 🎵 | TikTok system | $29-197 |
+| 15 | [Ultimate Creator Bundle](https://github.com/muyinzad/ultimate-creator-bundle) 👑 | ALL platforms | $147-497 |
+
+---
+
+## 🏆 Flagship Products
+
+- Etsy Empire Builder - $97
+- YouTube Creator Empire - $147
+- Notion Life OS - $147
+- Freelancer Empire - $147
+- Agency Bundle - $247
+- Professional Prompt Library - $79
+- Midjourney Master - $79
+- TikTok Creator Kit - $79
+- **Ultimate Creator Bundle - $297**
 
 ---
 
 ## Quick Stats
 
-- **14 Products**
+- **15 Products**
 - **$12-497 Price Range**
-- **$100k+ Monthly Potential**
+- **$150k+ Monthly Potential**
 
 ---
 
