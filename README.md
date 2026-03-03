@@ -32,6 +32,7 @@
 | 22 | [AI Automation Mastery](https://github.com/muyinzad/ai-automation-mastery) 🔄 | AI automation | $67-247 |
 | 23 | [Mega Image Prompts Bundle](https://github.com/muyinzad/mega-image-prompts-bundle) 🖼️ | 1000+ prompts | $29-147 |
 | 24 | [Mega Image Prompts Nano](https://github.com/muyinzad/mega-image-prompts-nano) 🍌 | 100 quick prompts | $14 |
+| 25 | [Faceless YouTube Automation](https://github.com/muyinzad/faceless-youtube-automation) 🎬 | AI videos | $67-247 |
 
 ---
 
@@ -39,19 +40,20 @@
 
 | Product | Price |
 |---------|-------|
-| Mega Image Prompts | $79 |
-| Mega Image Prompts Nano | $14 |
+| Faceless YouTube Automation | $127 |
 | Advanced AI Hacking | $297 |
 | E-commerce Empire | $297 |
 | Complete Marketing Bundle | $297 |
+| Ultimate Creator Bundle | $297 |
+| Mega Image Prompts | $79 |
 
 ---
 
 ## Quick Stats
 
-- **24 Products**
+- **25 Products**
 - **$12-497 Price Range**
-- **$600k+ Monthly Potential**
+- **$650k+ Monthly Potential**
 
 ---
 
