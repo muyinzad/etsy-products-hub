@@ -25,6 +25,7 @@
 | 15 | [Ultimate Creator Bundle](https://github.com/muyinzad/ultimate-creator-bundle) 👑 | ALL platforms | $147-497 |
 | 16 | [Complete Marketing Bundle](https://github.com/muyinzad/complete-marketing-bundle) 📣 | ALL marketing | $147-497 |
 | 17 | [E-commerce Empire](https://github.com/muyinzad/ecommerce-empire-bundle) 🛒 | ALL e-commerce | $147-497 |
+| 18 | [Ethical Hacking Course](https://github.com/muyinzad/ethical-hacking-course) 🛡️ | Cybersecurity | $47-197 |
 
 ---
 
@@ -35,17 +36,17 @@
 | E-commerce Empire | $297 |
 | Complete Marketing Bundle | $297 |
 | Ultimate Creator Bundle | $297 |
+| Ethical Hacking Course | $147 |
 | Agency Bundle | $247 |
 | YouTube Creator Empire | $147 |
-| Notion Life OS | $147 |
 
 ---
 
 ## Quick Stats
 
-- **17 Products**
+- **18 Products**
 - **$12-497 Price Range**
-- **$250k+ Monthly Potential**
+- **$300k+ Monthly Potential**
 
 ---
 
