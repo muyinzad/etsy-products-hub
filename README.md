@@ -27,6 +27,7 @@
 | 17 | [E-commerce Empire](https://github.com/muyinzad/ecommerce-empire-bundle) 🛒 | ALL e-commerce | $147-497 |
 | 18 | [Ethical Hacking Course](https://github.com/muyinzad/ethical-hacking-course) 🛡️ | Cybersecurity | $47-197 |
 | 19 | [AI Cybersecurity Course](https://github.com/muyinzad/ai-cybersecurity-course) 🤖 | AI security | $67-247 |
+| 20 | [Advanced AI Hacking Course](https://github.com/muyinzad/advanced-ai-hacking-course) ⚡ | Advanced AI | $147-447 |
 
 ---
 
@@ -34,20 +35,20 @@
 
 | Product | Price |
 |---------|-------|
+| Advanced AI Hacking | $347 |
 | E-commerce Empire | $297 |
 | Complete Marketing Bundle | $297 |
 | Ultimate Creator Bundle | $297 |
-| AI Cybersecurity Course | $197 |
-| Ethical Hacking Course | $147 |
-| Agency Bundle | $247 |
+| AI Cybersecurity | $197 |
+| Ethical Hacking | $147 |
 
 ---
 
 ## Quick Stats
 
-- **19$12-497 Products**
-- ** Price Range**
-- **$350k+ Monthly Potential**
+- **20 Products**
+- **$12-497 Price Range**
+- **$400k+ Monthly Potential**
 
 ---
 
