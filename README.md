@@ -31,6 +31,7 @@
 | 21 | [Prompt Injection Course](https://github.com/muyinzad/prompt-injection-course) 🎯 | LLM security | $47-197 |
 | 22 | [AI Automation Mastery](https://github.com/muyinzad/ai-automation-mastery) 🔄 | AI automation | $67-247 |
 | 23 | [Mega Image Prompts Bundle](https://github.com/muyinzad/mega-image-prompts-bundle) 🖼️ | 1000+ prompts | $29-147 |
+| 24 | [Mega Image Prompts Nano](https://github.com/muyinzad/mega-image-prompts-nano) 🍌 | 100 quick prompts | $14 |
 
 ---
 
@@ -39,19 +40,18 @@
 | Product | Price |
 |---------|-------|
 | Mega Image Prompts | $79 |
+| Mega Image Prompts Nano | $14 |
 | Advanced AI Hacking | $297 |
 | E-commerce Empire | $297 |
 | Complete Marketing Bundle | $297 |
-| Ultimate Creator Bundle | $297 |
-| AI Automation Mastery | $147 |
 
 ---
 
 ## Quick Stats
 
-- **23 Products**
+- **24 Products**
 - **$12-497 Price Range**
-- **$550k+ Monthly Potential**
+- **$600k+ Monthly Potential**
 
 ---
 
