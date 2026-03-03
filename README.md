@@ -34,6 +34,7 @@
 | 24 | [Mega Image Prompts Nano](https://github.com/muyinzad/mega-image-prompts-nano) 🍌 | 100 quick prompts | $14 |
 | 25 | [Faceless YouTube Automation](https://github.com/muyinzad/faceless-youtube-automation) 🎬 | AI videos | $67-247 |
 | 26 | [Faceless YouTube Scripts MEGA](https://github.com/muyinzad/faceless-youtube-scripts-mega) 📝 | 500+ scripts | $19-79 |
+| 27 | [Notion Templates MEGA](https://github.com/muyinzad/notion-templates-mega) 📓 | 200+ templates | $19-97 |
 
 ---
 
@@ -41,21 +42,20 @@
 
 | Product | Price |
 |---------|-------|
+| Notion Templates MEGA | $49 |
 | Faceless YouTube Scripts MEGA | $39 |
 | Faceless YouTube Automation | $127 |
 | Advanced AI Hacking | $297 |
 | E-commerce Empire | $297 |
 | Complete Marketing Bundle | $297 |
-| Ultimate Creator Bundle | $297 |
-| Mega Image Prompts | $79 |
 
 ---
 
 ## Quick Stats
 
-- **26 Products**
+- **27 Products**
 - **$12-497 Price Range**
-- **$700k+ Monthly Potential**
+- **$750k+ Monthly Potential**
 
 ---
 
