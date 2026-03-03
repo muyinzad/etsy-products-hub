@@ -29,6 +29,7 @@
 | 19 | [AI Cybersecurity Course](https://github.com/muyinzad/ai-cybersecurity-course) 🤖 | AI security | $67-247 |
 | 20 | [Advanced AI Hacking Course](https://github.com/muyinzad/advanced-ai-hacking-course) ⚡ | Advanced AI | $147-447 |
 | 21 | [Prompt Injection Course](https://github.com/muyinzad/prompt-injection-course) 🎯 | LLM security | $47-197 |
+| 22 | [AI Automation Mastery](https://github.com/muyinzad/ai-automation-mastery) 🔄 | AI automation | $67-247 |
 
 ---
 
@@ -39,17 +40,17 @@
 | Advanced AI Hacking | $297 |
 | E-commerce Empire | $297 |
 | Complete Marketing Bundle | $297 |
+| AI Automation Mastery | $197 |
 | Ultimate Creator Bundle | $297 |
 | AI Cybersecurity | $197 |
-| Prompt Injection | $147 |
 
 ---
 
 ## Quick Stats
 
-- **21 Products**
+- **22 Products**
 - **$12-497 Price Range**
-- **$450k+ Monthly Potential**
+- **$500k+ Monthly Potential**
 
 ---
 
