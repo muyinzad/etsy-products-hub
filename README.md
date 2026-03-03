@@ -35,6 +35,7 @@
 | 25 | [Faceless YouTube Automation](https://github.com/muyinzad/faceless-youtube-automation) 🎬 | AI videos | $67-247 |
 | 26 | [Faceless YouTube Scripts MEGA](https://github.com/muyinzad/faceless-youtube-scripts-mega) 📝 | 500+ scripts | $19-79 |
 | 27 | [Notion Templates MEGA](https://github.com/muyinzad/notion-templates-mega) 📓 | 200+ templates | $19-97 |
+| 28 | [Ultimate Empire Bundle](https://github.com/muyinzad/ultimate-empire-bundle) 👑 | 27 products | **$497** |
 
 ---
 
@@ -42,20 +43,20 @@
 
 | Product | Price |
 |---------|-------|
-| Notion Templates MEGA | $49 |
-| Faceless YouTube Scripts MEGA | $39 |
-| Faceless YouTube Automation | $127 |
-| Advanced AI Hacking | $297 |
-| E-commerce Empire | $297 |
+| **Ultimate Empire Bundle** | **$497** |
 | Complete Marketing Bundle | $297 |
+| Ultimate Creator Bundle | $297 |
+| E-commerce Empire | $297 |
+| Advanced AI Hacking | $347 |
 
 ---
 
 ## Quick Stats
 
-- **27 Products**
-- **$12-497 Price Range**
-- **$750k+ Monthly Potential**
+- **28 Products**
+- **$4,500+ Total Value**
+- **$497 Price for Bundle**
+- **$1M+ Monthly Potential**
 
 ---
 
