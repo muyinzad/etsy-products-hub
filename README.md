@@ -36,6 +36,7 @@
 | 26 | [Faceless YouTube Scripts MEGA](https://github.com/muyinzad/faceless-youtube-scripts-mega) 📝 | 500+ scripts | $19-79 |
 | 27 | [Notion Templates MEGA](https://github.com/muyinzad/notion-templates-mega) 📓 | 200+ templates | $19-97 |
 | 28 | [Ultimate Empire Bundle](https://github.com/muyinzad/ultimate-empire-bundle) 👑 | 27 products | **$497** |
+| 29 | [Bulk SMS Scheduler](https://github.com/muyinzad/bulk-sms-scheduler) 📱 | Android app | $47-197 |
 
 ---
 
