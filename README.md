@@ -24,6 +24,7 @@
 | 14 | [TikTok Creator Kit](https://github.com/muyinzad/tiktok-creator-kit) 🎵 | TikTok system | $29-197 |
 | 15 | [Ultimate Creator Bundle](https://github.com/muyinzad/ultimate-creator-bundle) 👑 | ALL platforms | $147-497 |
 | 16 | [Complete Marketing Bundle](https://github.com/muyinzad/complete-marketing-bundle) 📣 | ALL marketing | $147-497 |
+| 17 | [E-commerce Empire](https://github.com/muyinzad/ecommerce-empire-bundle) 🛒 | ALL e-commerce | $147-497 |
 
 ---
 
@@ -31,20 +32,20 @@
 
 | Product | Price |
 |---------|-------|
+| E-commerce Empire | $297 |
 | Complete Marketing Bundle | $297 |
 | Ultimate Creator Bundle | $297 |
 | Agency Bundle | $247 |
 | YouTube Creator Empire | $147 |
 | Notion Life OS | $147 |
-| Freelancer Empire | $147 |
 
 ---
 
 ## Quick Stats
 
-- **16 Products**
+- **17 Products**
 - **$12-497 Price Range**
-- **$200k+ Monthly Potential**
+- **$250k+ Monthly Potential**
 
 ---
 
