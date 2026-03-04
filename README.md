@@ -37,6 +37,23 @@
 | 27 | [Notion Templates MEGA](https://github.com/muyinzad/notion-templates-mega) 📓 | 200+ templates | $19-97 |
 | 28 | [Ultimate Empire Bundle](https://github.com/muyinzad/ultimate-empire-bundle) 👑 | 27 products | **$497** |
 | 29 | [Bulk SMS Scheduler](https://github.com/muyinzad/bulk-sms-scheduler) 📱 | Android app | $47-197 |
+| 30 | [WhatsApp Automator](https://github.com/muyinzad/whatsapp-automator) 💬 | Android app | $47-197 |
+
+---
+
+## 📱 Mobile Apps
+
+| Product | Description | Price |
+|---------|-------------|-------|
+| [Mobile Apps Factory](https://github.com/muyinzad/mobile-apps-factory) | Android apps collection | $297 |
+
+---
+
+## 🎓 Courses
+
+| Product | Description | Price |
+|---------|-------------|-------|
+| [Master Courses](https://github.com/muyinzad/master-courses) | Beginner to Advanced | Bundle pricing |
 
 ---
 
@@ -54,7 +71,7 @@
 
 ## Quick Stats
 
-- **28 Products**
+- **30+ Products**
 - **$4,500+ Total Value**
 - **$497 Price for Bundle**
 - **$1M+ Monthly Potential**
